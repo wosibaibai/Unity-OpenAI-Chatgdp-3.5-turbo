@@ -1,5 +1,5 @@
-# Unity-OpenAI-Chatgdp-3.5-turbo
-Unity实现的本地调用OpenAI-Chatgdp-3.5-turbo模型的接口
+# Unity-OpenAI-Chatgpt-3.5-turbo
+Unity实现的本地调用OpenAI-Chatgpt-3.5-turbo模型的接口
 
 1.请求是在本地发送的,所以必须要有梯子
 
